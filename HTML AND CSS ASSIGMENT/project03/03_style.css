@@ -1,0 +1,167 @@
+.navbar-container{
+
+    display: flex;
+    justify-content: flex-start;   
+    font-family: orbitron;
+}
+nav>div>img{
+       margin-left:150px ;
+       height: 50px;
+       margin-top: 40px;
+      
+}
+.list{
+
+    display: flex;
+    list-style-type: none;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 25px;
+    gap: 50px;
+    
+}
+.list-item:nth-child(1){
+
+    color: black;
+    text-decoration: underline;  
+    font-weight: bolder;    
+}
+.button-group{
+    
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 15px;
+}
+.button-group button{
+    background-color: white;
+    border-radius: 9px;
+    padding: 6px 35px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.search-icon{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px ;
+    height: 30px;
+    margin-left: 200px;
+}
+.search-icon svg{
+    width: 25px;
+    height: 25px;
+}
+.hero-container{
+
+    margin: 40px;
+}
+.square{
+   position: relative;
+   top: 200px;
+   width: 150px;
+   height: 150px;
+   left: 100px;    
+}
+.hero-container .star:nth-child(2) img{
+    position: relative;
+    top: 160px;
+    left: 158px;
+    width: 40px;
+  }
+  .hero-container .star:nth-child(3) img{
+    
+    position: relative;
+    bottom: 330px;
+    left: 900px;
+    width: 45px;
+  }
+.globe{
+    position: relative;
+    left: 245px;
+    bottom: 340px;
+    width: 45px;
+}
+.hero-container>div>img{
+    width: 360px;
+    position: relative;
+    bottom: 325px;
+    left: 90px;
+}
+.hero-container-right
+
+{
+  position: relative;
+  left: 600px;
+  bottom: 700px;
+}
+.hero-heading{
+
+    font-size: 60px;
+    margin-top: -40px;
+    font-family: orbitron;   
+}
+.hero-description{
+
+    width: 670px;
+    margin-left: 80px;
+    font-family: poppins;
+    text-align: center;
+    margin-top: -20px;
+}
+.button-email{
+       
+    background-color: white;
+    position: relative;
+    left: 230px;
+    border-radius:9px;
+    font-family: orbitron;
+    padding: 4px 25px;
+    font-size: 15px;
+    margin-top: 50px;
+}
+.button-join{
+    position: relative;
+    left: 240px;
+    background-color: black;
+    color: white;
+    border-radius:9px;
+    padding: 4px 25px;
+    font-size: 15px;
+    margin-top: 50px;
+    font-family: orbitron;
+}
+.contact-heading{
+   
+    position: relative;
+    top: 110px;
+    margin-left:323px ;
+    font-family: poppins;
+    font-weight: 300;
+    font-size: 20px;
+}
+.icons{
+
+    position: relative;
+    left: 293px;
+    top:100px;
+}
+.icons span:nth-child(1) img{
+    width: 30px;
+    margin-right: 15px;
+  }
+  .icons span:nth-child(2) img{
+    
+    width: 30px;
+    margin-right: 15px;
+
+  }
+  .icons span:nth-child(3) img{
+    
+    width: 30px;
+    margin-right: 15px;
+  }
+  .icons span:nth-child(4) img{
+    
+    width: 30px;
+  }

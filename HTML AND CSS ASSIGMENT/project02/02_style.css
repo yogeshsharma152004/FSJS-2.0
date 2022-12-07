@@ -1,0 +1,108 @@
+body {
+
+    background-image: url("./images/pic.png");
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+
+
+
+}
+
+.container {
+
+    margin: -10px -8px;
+
+
+}
+
+.navbar {
+
+    display: flex;
+    background-color: black;
+    height: 65px;
+    color: white;
+    
+}
+
+.logo {
+
+    height: 90;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 17px;
+   
+
+}
+
+
+.grow-list {
+
+    margin-left: 50px;
+    border-left: 1px solid white;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.list {
+
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    margin-left: 100px;
+    margin-top: 5px;
+    font-size: 18px;                                                          
+    font-family: poppins;
+
+}
+
+.list-item:first-child::after{
+    content: ' \02C5';
+    margin-left: 2px;
+}
+
+.button-small {
+
+
+
+    background-color: #e640e6;
+    color: white;
+    margin: 17px;
+    padding: 8px 25px;
+    border: 0px;
+    border-radius: 5px;
+    margin-left: 400px;
+    font-size: 15px;
+}
+
+.hero-heading {
+    text-align: center;
+
+    color: white;
+    font-size: 80px;
+    margin-top: 110px;
+    margin-left: 350px;
+    width: 1000px;
+    font-family: poppins;
+}
+
+.hero-description {
+
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: -50px;
+    font-family: poppins;
+}
+
+.button-large {
+
+    background-color: #e640e6;
+    color: white;
+    margin: 15px;
+    padding: 15px 30px;
+    border: 0px;
+    border-radius: 8px;
+    margin-left: 680px;
+    margin-top: 20px;
+    font-size: 25px;
+}
