@@ -31,6 +31,6 @@
 
 ### **_PROJECT01_**
 
-[Link of Project01](./TAILWIND%20CSS%20ASSIGMENT/project01%20vscode%20clone/)
+[Link of Project01](./TAILWIND%20CSS%20ASSIGMENT/project01%20vs%20code%20clone/)
 
 
