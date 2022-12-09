@@ -4,7 +4,7 @@
 ## HTML AND CSS ASSIGNMENT
 ### **_PROJECT01_**
 
-[link of Project01](./HTML%20AND%20CSS%20ASSIGMENT/project01/)
+[Link of Project01](./HTML%20AND%20CSS%20ASSIGMENT/project01/)
 
 ### **_PROJECT02_**
 
@@ -32,5 +32,11 @@
 ### **_PROJECT01_**
 
 [Link of Project01](./TAILWIND%20CSS%20ASSIGMENT/project01%20vs%20code%20clone/)
+
+## ARTICLES
+
+### **_Article01_**
+
+[Web Server Article](https://medium.com/@sharmayogesh152004/web-server-b59144e65fab)
 
 
