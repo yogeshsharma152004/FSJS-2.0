@@ -442,6 +442,54 @@ margin-top: 10px;
 
 
 }
-     
+
+.four{
+
+background-color: #f0e3f0;
+margin-top: 200px;
+padding-top: 80px;
+
+
+}
+
+.unique{
+
+color: #141313;
+font-size: 50px;
+font-family: poppins;
+text-align: center;
+width: 600px;
+font-weight: bold;
+margin-left: 450px;
+
+
+
+}
+.pink03{
+
+color: fuchsia;
+
+}
     
-    
+.features {
+
+color:rgb(64, 62, 62);
+font-family: poppins;
+width: 550px;
+text-align: center;
+font-size: 15px;
+margin-left: 470px;
+margin-top: 40px;
+font-weight: 200px;
+
+}   
+
+
+
+.vcardimg{
+
+height: 800px; ;
+margin-top: -40px;
+margin-left: 300px;
+
+}
