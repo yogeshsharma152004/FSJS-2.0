@@ -759,5 +759,40 @@ padding: 7px 7px;
     background-color: #7c7878;
     border-radius: 50%;
     padding: 7px 7px;
+}
+
+.rect01{
+
+width: 100%;
+height: 400px;
+margin-top: 200px;
+
+}
+
+.rect02{
+
+ width: 100%;
+ height: 400px;
+ position: relative;
+ bottom: 406px;
     
-    }
+}
+
+.dia01{
+
+height: 385px;
+position: relative;
+bottom: 821px;
+
+}
+
+.dia02{
+
+
+    height: 385px;
+    position: relative;
+    bottom: 782px;
+    left: 820px;
+
+
+}
