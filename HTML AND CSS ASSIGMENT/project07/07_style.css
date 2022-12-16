@@ -383,6 +383,7 @@ border-left: 1px  outset;
 border-top: 1px outset ;
 
 
+
 }
 
 .cloudimg{
@@ -491,5 +492,42 @@ font-weight: 200px;
 height: 800px; ;
 margin-top: -40px;
 margin-left: 300px;
+
+}
+
+.five{
+
+    margin-top: 80px;
+    
+}
+
+.customers{
+
+color: #ffffff;
+font-family:poppins;
+text-align: center;
+font-size:50px ;
+font-weight: bold;
+width: 750px;
+margin-left: 450px;
+
+
+}
+.pink04{
+
+color: fuchsia;
+
+}
+
+.various{
+
+    color:rgb(212, 206, 206);
+    font-family: poppins;
+    width: 500px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 580px;
+    margin-top: 40px;
+    font-weight: 200px;
 
 }
