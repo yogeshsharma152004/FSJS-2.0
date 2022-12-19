@@ -854,3 +854,34 @@ font-weight: bold;
 font-size: 20px;
 
 }
+
+.last{
+
+display: flex;
+flex-direction: row;
+margin-top: 750px;
+padding-bottom: 100px;
+
+
+}
+
+.lo{
+
+margin-left: 450px;    
+height: 40px;
+
+}
+
+.lis{
+
+display: flex;    
+flex-direction: row;
+list-style: none;
+color: #ffffff;
+font-family: poppins;
+margin-top: 10px;
+margin-left: 300px;
+gap: 20px;
+
+
+}
