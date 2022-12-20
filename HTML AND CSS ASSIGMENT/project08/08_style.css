@@ -599,7 +599,7 @@ border-radius: 25px;
 
     background-color: black;
     margin-top: 100px;
-    
+    padding: 80px;
 
 }
 
@@ -639,22 +639,422 @@ margin-top: 50px;
 
 }
 
+.thr03{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 360px;
+    margin-top: 100px;
+   
+
+}
+
 .regular{
     
 background-color: #ffffff;
+padding: 20px ;
+border-radius: 20px;
+position: absolute;
+
 }
 .reg{
 
 
-    color: black;
-    font-weight: bolder;
-    font-size: 25px;
-    font-family: poppins;
-
+color: black;
+font-weight: bolder;
+font-size: 25px;
+font-family: poppins;
+   
 }
 
 .month{
 
-    
+font-size: 40px;
+font-weight: bolder;
+font-family:poppins ;
+margin-top: 10px;
 
 }
+
+.mon{
+
+color: #837e7e;
+font-size: 20px;
+
+}
+
+.suit{
+
+color: black;
+font-family: poppins;
+font-size: 13px;
+width: 250px;
+font-weight:bold;
+margin-top: 10px;
+
+}
+
+.hr{
+
+color: #676464;    
+margin-top: 20px;
+
+}
+
+.bluetick{
+
+height: 13px;
+margin-right: 10px;
+}
+.visit{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 21px;
+
+}
+.ssd{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px; 
+
+}
+.band{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+
+}
+
+.data{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+
+}
+
+.backup{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px; 
+
+}
+
+.email{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;       
+}  
+
+.domain{
+
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;        
+}
+
+.sel{
+
+background-color: dodgerblue;
+color: #ffffff;
+border: 0px;
+font-size: 15px;
+font-family: poppins;
+font-weight: 500;
+padding: 12px 100px 12px 100px;
+border-radius: 25px;
+margin-top: 20px;
+
+    
+}
+
+
+.standerd{
+    
+background-color:dodgerblue;
+padding: 20px;
+border-radius: 20px;
+margin-left: 310px;
+position: absolute;
+}
+
+.sta{
+       
+color: black;
+font-weight: bolder;
+font-size: 25px;
+font-family: poppins;
+
+    
+}
+    
+.month01{
+    
+font-size: 40px;
+font-weight: bolder;
+font-family:poppins ;
+margin-top: 10px;    
+}
+    
+.mon01{
+    
+color: #cac5c5;
+font-size: 20px;
+    
+}
+    
+.suit01{
+    
+color: white;
+font-family: poppins;
+font-size: 13px;
+width: 250px;
+font-weight: bold;
+margin-top: 15px;
+
+}
+
+.hr01{
+
+margin-top: 10px;
+color: #ffffff;
+
+}
+    
+.whitetick{
+    
+height: 13px;
+margin-right: 10px;
+
+}
+.visit01{
+  
+color: #ffffff;    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 10px;
+    
+}
+
+.ssd01{
+
+color: #ffffff;   
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px; 
+
+}
+
+.band01{
+
+color: #ffffff;   
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+
+}
+    
+.data01{
+
+color: #ffffff;   
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+
+}
+
+.backup01{
+
+color: #ffffff;   
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+
+}
+.email01{
+
+color: #ffffff;   
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;  
+
+}   
+.domain01{
+
+color: #ffffff;   
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px; 
+      
+} 
+
+.sel01{
+
+background-color: white;
+color:dodgerblue;
+border: 0px;
+font-size: 15px;
+font-family: poppins;
+font-weight: 500;
+padding: 10px 100px 10px 100px;
+border-radius: 25px;
+margin-top: 20px;
+    
+}
+
+
+.premium{
+    
+background-color: #ffffff;
+padding: 20px;
+border-radius: 20px;
+margin-left: 620px;
+    
+    }
+
+.pre{
+    
+color: black;
+font-weight: bolder;
+font-size: 25px;
+font-family: poppins;
+       
+}
+    
+.month02{
+    
+font-size: 40px;
+font-weight: bolder;
+font-family:poppins ;
+margin-top: 10px;
+    
+ }
+    
+.mon02{
+    
+color: #837e7e;
+font-size: 20px;
+    
+}
+    
+.suit02{
+    
+color: black;
+font-family: poppins;
+font-size: 13px;
+width: 250px;
+font-weight: bold;
+margin-top: 15px;
+    
+}
+    
+.hr02{
+    
+color: #676464;    
+margin-top: 10px;
+    
+}
+    
+.bluetick02{
+    
+height: 13px;
+margin-right: 10px;
+
+}
+
+.visit02{
+    
+ font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 10px;
+
+}
+
+.ssd02{
+    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px; 
+    
+}
+
+.band02{
+    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+    
+}
+    
+.data02{
+    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+    
+}
+    
+.backup02{
+    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+ margin-top: 5px; 
+    
+}
+    
+.email02{
+    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;
+
+}  
+
+.domain02{
+    
+font-size: 16px;
+font-family: poppins;
+font-weight: 500;
+margin-top: 5px;   
+
+}
+    
+.sel02{
+    
+background-color: dodgerblue;
+color: #ffffff;
+border: 0px;
+font-size: 15px;
+font-family: poppins;
+font-weight: 500;
+padding: 10px 100px 10px 100px;
+border-radius: 25px;
+margin-top: 20px;
+        
+}
+    
