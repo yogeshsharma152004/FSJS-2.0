@@ -1097,8 +1097,9 @@ margin-top: 40px;
 
     display: flex;
     flex-direction: row;
-    margin-left: 400px;
+    margin-left: 290px;
     margin-top: 80px;
+    padding-bottom: 100px;
     
 
 }
@@ -1164,7 +1165,7 @@ margin-top: 20px;
     border-bottom: 1px solid grey;
     border-radius: 25px 0px 0px 25px;
     padding: 20px;
-    margin-left:  130px;
+    margin-left:  240px;
     overflow: hidden;
     
 
@@ -1215,4 +1216,79 @@ margin-top: 20px;
 
     margin-top: 20px;  
 }
-    
+
+.container05{
+
+
+    background-color: #000000;
+
+}
+
+.year{
+
+    color: white;
+    font-family: poppins;
+    font-size: 40px;
+    width: 750px;
+    margin-left: 470px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.name{
+
+    background-color: #323131;
+    padding: 40px;
+    margin-top: 100px;
+    width: 840px;
+    border-radius: 30px;
+    margin-left: 400px;
+
+}
+
+.nam{
+
+    background-color: #676464;
+    border: 0px;
+    padding:15px 150px 15px 15px;
+    border-radius: 25px;
+    color: #cac5c5;
+    margin-left: 10px;
+
+}
+
+.eaddress{
+
+    background-color: #676464;
+    border: 0px;
+    color: #cac5c5;
+    padding:15px 150px 15px 15px;
+    border-radius: 25px;
+    margin-left: 10px;
+
+}
+
+.passwo{
+
+    background-color: #676464;
+    border: 0px;
+    color: #cac5c5;
+    padding:15px 150px 15px 15px;
+    border-radius: 25px;
+    margin-left: 10px;
+
+}
+
+.sign{
+
+    background-color: dodgerblue;
+    border: 0px;
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 25px;
+    margin-left: 10px;
+
+
+}
