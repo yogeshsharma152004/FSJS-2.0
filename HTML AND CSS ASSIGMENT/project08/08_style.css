@@ -3,6 +3,7 @@
 margin: 0px;
 padding: 0px;
 
+
 }
 
 body{
@@ -205,7 +206,7 @@ margin-top:30px ;
     flex-direction: row;
     margin-top: 150px;
     padding-bottom: 50px;
-    margin-left: 310px;
+    margin-left: 290px;
 
 }
 
@@ -333,7 +334,7 @@ font-family: poppins;
 font-size: 40px;
 width: 800px;
 margin-top: 100px;
-margin-left: 310px;
+margin-left: 290px;
 font-weight: bold;
 
 }
@@ -341,7 +342,7 @@ font-weight: bold;
 .downleft{
 
 
-    margin-left: 310px;
+    margin-left: 290px;
     margin-top: 50px;
     display: flex;
     flex-direction: row;
@@ -643,7 +644,7 @@ margin-top: 50px;
 
     display: flex;
     flex-direction: row;
-    margin-left: 360px;
+    margin-left: 290px;
     margin-top: 100px;
    
 
@@ -1056,5 +1057,162 @@ padding: 10px 100px 10px 100px;
 border-radius: 25px;
 margin-top: 20px;
         
+}
+
+.container04{
+
+    background-color: #ffffff;
+    margin-top: 50px;
+    padding: 50px;
+
+}
+
+.customers{
+
+    display: flex;
+    flex-direction: row;   
+    margin-left: 290px;
+
+}
+
+.what{
+
+    color: black;
+    font-size: 50px;
+    font-family:poppins ;
+    width: 500px;
+}
+
+.definietly{
+
+color: #837e7e;
+font-size: 15px;
+font-family: poppins;
+width: 400px;
+margin-top: 40px;
+
+}
+
+.good{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    margin-top: 80px;
+    
+
+}
+
+.bulk{
+
+background-color: black;
+border-radius: 25px;
+padding: 20px;
+
+
+}
+
+.vector01{
+
+    height: 30px;
+
+}
+
+.vector02{
+
+    height: 30px;
+
+}
+
+.slamet{
+
+    color: #ffffff;
+    font-family: poppins;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+
+.ceo{
+
+    color: #ffffff;
+    font-family: poppins;
+    font-size: 13px;
+    font-weight: 100;
+
+}
+
+.highly{
+
+    color: #ffffff;
+    font-family: poppins;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 500px;
+    
+}
+
+.star{
+margin-top: 20px;
+
+}
+
+.bulk01{
+
+    border-left:1px solid grey;
+    border-top:1px solid grey ;
+    border-bottom: 1px solid grey;
+    border-radius: 25px 0px 0px 25px;
+    padding: 20px;
+    margin-left:  130px;
+    overflow: hidden;
+    
+
+
+}
+    
+.vector03{
+    
+    height: 30px;
+    
+}
+    
+.vector04{
+    
+    height: 30px;
+    
+}
+    
+.turman{
+    
+    color: #000000;
+    font-family: poppins;
+    font-size: 15px;
+    margin-top: 20px;
+    
+}
+    
+.sick{
+    
+    color: #000000;
+    font-family: poppins;
+    font-size: 13px;
+    font-weight: 100;
+    
+}
+    
+.quite{
+    
+    color: #000000;
+    font-family: poppins;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 450px;
+        
+}
+    
+.star01{
+
+    margin-top: 20px;  
 }
     
