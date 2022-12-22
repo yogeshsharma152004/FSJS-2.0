@@ -1221,6 +1221,7 @@ margin-top: 20px;
 
 
     background-color: #000000;
+    padding: 50px;
 
 }
 
@@ -1230,7 +1231,7 @@ margin-top: 20px;
     font-family: poppins;
     font-size: 40px;
     width: 750px;
-    margin-left: 470px;
+    margin-left: 430px;
     font-weight: bold;
     text-align: center;
     margin-top: 50px;
@@ -1244,7 +1245,7 @@ margin-top: 20px;
     margin-top: 100px;
     width: 840px;
     border-radius: 30px;
-    margin-left: 400px;
+    margin-left: 345px;
 
 }
 
@@ -1290,5 +1291,200 @@ margin-top: 20px;
     border-radius: 25px;
     margin-left: 10px;
 
+}
+
+.horizo{
+
+margin-top: 100px;
+
+}
+
+.container06{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.company{
+
+    color: #ffffff;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 350px;
+    font-family: poppins;
+
+}
+
+.com{
+
+    font-size: 20px;
+
+}
+
+.aboutus{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.contactus{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.carier{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.blog{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.features{
+
+    color: #ffffff;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: poppins;
+
+}
+
+.fea{
+
+    font-size: 20px;
+
+}
+
+.dom{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.hosti{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.wordpress{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.security{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.help{
+
+    color: #ffffff;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: poppins;
+
+}
+
+.hea{
+
+    font-size: 20px;
+
+}
+
+.payment{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.know{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.tutorial{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.socialmedia{
+
+    color: #ffffff;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: poppins;
+
+}
+
+.media{
+
+    font-size: 20px;
+
+}
+
+.insta{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.twitter{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.facebook{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.youtube{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.horzi01{
+
+    margin-top: 100px;
+
+}
+
+.lastimg{
+
+height: 40px;
+margin-left: 100px;
+margin-top: 30px;
 
 }

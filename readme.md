@@ -30,6 +30,10 @@
 
 [Link of Project07](./HTML%20AND%20CSS%20ASSIGMENT/project07/)
 
+### **_PROJECT08_**
+
+[Link of Project08](/HTML%20AND%20CSS%20ASSIGMENT/project08/)
+
 
 
 ## TAILWIND CSS ASSIGMENT
