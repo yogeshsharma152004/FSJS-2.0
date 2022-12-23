@@ -54,7 +54,7 @@ nav p{
 
 .sign{
 
-    background-color: rgb(225, 95, 49);
+    background-color: #e15f31;
     margin-top: 46px;
     color: #ffffff;
     border: 0px;
@@ -82,8 +82,89 @@ nav p{
 
     color: #ffffff;
     font-family: poppins;
-    font-size: 40px;
-    width: 430px;
+    font-size: 50px;
+    width: 550px;
     font-weight: bolder;
 
+}
+
+.popular{
+
+    font-size: 15px;
+    color: #b4a6a6;
+    font-family: poppins;
+    margin-top: 20px;
+    width: 500px;
+
+}
+
+.get{
+
+    margin-top: 40px;
+
+}
+
+.start{
+
+    color: #ffffff;
+    background-color:#e26132;
+    border: 2px solid #e26132 ;
+    padding: 15px 30px;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+.learn{
+
+    color: #ffffff;
+    background-color:transparent;
+    border-color: #ffffff;
+    padding: 15px 30px;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 20px;
+
+}
+
+.right{
+
+    margin-top: 350px;
+    margin-left: 500px;
+
+}
+
+.hori{
+
+    width: 40px;
+    background-color:  #ffffff;
+    margin-left: -70px;
+    margin-top: 100px;
+
+}
+
+.playbutton{
+
+    height: 60px;
+
+}
+
+.king{
+
+    margin-top: -15px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: poppins;
+    width: 200px;
+    
+
+}
+
+.rarrow{
+
+    
+    margin-left: 150px;
+    margin-top: -30px;
 }
