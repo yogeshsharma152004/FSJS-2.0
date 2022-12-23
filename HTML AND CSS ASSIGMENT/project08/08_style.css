@@ -619,6 +619,7 @@ border-radius: 25px;
     height: 100px;
     margin-right: 100px;
     margin-top: 50px;
+    margin-left: 100px;
 
 }
 
@@ -629,6 +630,7 @@ border-radius: 25px;
     font-family: poppins;
     width: 500px;
     text-align: center;
+    
 
 }
 
@@ -644,8 +646,8 @@ margin-top: 50px;
 
     display: flex;
     flex-direction: row;
-    margin-left: 290px;
-    margin-top: 100px;
+    margin-left: 315px;
+    margin-top: 90px;
    
 
 }
@@ -1090,6 +1092,7 @@ font-size: 15px;
 font-family: poppins;
 width: 400px;
 margin-top: 40px;
+margin-left: 290px;
 
 }
 
@@ -1215,6 +1218,35 @@ margin-top: 20px;
 .star01{
 
     margin-top: 20px;  
+}
+
+.scroll{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.scroll01{
+
+    padding-left:100px ;
+    margin-left: 290px;
+    padding-top: 8px;
+    border-radius: 25px;
+    border: 0px;
+    background-color: dodgerblue;
+    
+}
+.scroll02{
+
+    padding-left:1000px ;
+    padding-top: 8px;
+    border-radius: 25px 25px 25px 0px;
+    border: 0px;
+    
+    
+
+
 }
 
 .container05{
