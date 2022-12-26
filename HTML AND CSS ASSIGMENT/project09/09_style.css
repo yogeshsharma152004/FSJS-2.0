@@ -169,3 +169,37 @@ nav p{
     margin-left: 150px;
     margin-top: -30px;
 }
+
+.container02{
+
+    background-color: #ffffff;
+    margin-top: 140px;
+    padding: 50px;
+  
+
+}
+
+.war{
+
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 480px;
+    margin-left: 530px;
+    
+
+}
+
+
+
+.img2{
+
+height: 300px;
+width: 250px;
+object-fit: cover;
+object-position: 78% 50%;
+
+}
+
