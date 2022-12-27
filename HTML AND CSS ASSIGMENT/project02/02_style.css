@@ -3,7 +3,7 @@ body {
     background-image: url("./images/pic.png");
     background-repeat: no-repeat;
     background-size: 100% 900px;
-
+    overflow: hidden; 
 
 
 }

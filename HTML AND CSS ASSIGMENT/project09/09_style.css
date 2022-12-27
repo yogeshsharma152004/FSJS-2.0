@@ -10,13 +10,17 @@ body {
     background-image: url("./image/Photos/futuristic-bg.png");
     background-repeat: no-repeat;
     background-size: 100%;
+    overflow-x: hidden;
 
 }
+
+
 
 nav{
 
     display: flex;
     flex-direction: row;
+    width: 100%;
 
 }
 
@@ -454,11 +458,40 @@ margin-top: 100px;
 
 .pump{
 
-    font-size: 34px;
+    font-size: 30px;
     font-family: poppins;
     font-weight: bold;
-    width: 368px;
+    width: 325px;
 
+}
+
+.episode{
+
+    color: #7b7676;
+    font-size: 15px;
+    font-family: poppins;
+    width: 522px;
+    margin-top: 10px;
+
+}
+
+.explore{
+
+    color: #ffffff;
+    background-color: #e15f31;
+    margin-top: 20px;
+    padding: 13px 25px;
+    border: 1px solid #e15f31;
+
+}
+
+.learnmore{
+
+    color: #e15f31;
+    background-color: #ffffff;
+    padding: 13px 25px;
+    border: 1px solid #e15f31;
+    margin-left: 15px;
 }
         
     
