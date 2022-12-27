@@ -458,10 +458,10 @@ margin-top: 100px;
 
 .pump{
 
-    font-size: 30px;
+    font-size: 35px;
     font-family: poppins;
     font-weight: bold;
-    width: 325px;
+    width: 380px;
 
 }
 
@@ -493,6 +493,81 @@ margin-top: 100px;
     border: 1px solid #e15f31;
     margin-left: 15px;
 }
-        
+
+.week{
+
+    margin-top: 200px;
+    margin-left: 215px;
+}
+
+.you{
+
+    font-size: 35px;
+    font-family: poppins;
+    font-weight: bolder;
+    width: 410px;
+
+}
+
+.inline{
+
+}
+
+.humanb{
+
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.rectangle75{
+
+    
+    height: 250px;
+    width: 200px;
+    object-fit: cover;
+
+}
+.spo01{
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.human{
+
+    font-family: poppins;
+    width: 250px;
+
+}
+.sport{
+
+    color: #f14f14;
+    font-family: poppins;
+    margin-top: 10px;
+    font-weight: 700;
+
+}
+.earth{
+
+    color: #7b7676;
+    width: 350px;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: poppins;
+    
+}
+
+.download04{
+
+    background-color: #e26132;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 15px 30px;
+    border: 0px;
+    margin-top: 25px;
+
+}
     
     
