@@ -502,6 +502,37 @@ margin-top: 100px;
     padding-bottom: 100px;
 }
 
+.arrows{
+
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.arr{
+
+    margin-top: 35px;
+    margin-left: 550px;
+
+}
+
+.leftarrow{
+
+    background-color: #f2e1db;
+    width: 25px;
+    padding: 19.9px 10px;
+
+}
+
+.rightarrow{
+
+    background-color: #f14f14;
+    width: 25px;
+    padding: 21.5px 10px;
+    margin-left: 5px;
+}
+
 .you{
 
     font-size: 35px;
@@ -759,7 +790,7 @@ margin-top: 100px;
 .container02{
 
     background-color: black;
-
+    
 }
 
 .year{
@@ -843,6 +874,7 @@ margin-top: 100px;
     position: absolute;
     opacity: initial;
     filter: brightness(0.4);
+  
 }
 
 .exep{
@@ -850,9 +882,6 @@ margin-top: 100px;
 margin-left: 640px;
 position: absolute;
 margin-top: 80px;
-
-
-
 
 }
 
@@ -890,6 +919,232 @@ margin-top: 80px;
     border: 0px;
     margin-left: 115px;
     margin-top: 20px;
+
+}
+
+.last{
+
+    margin-top: 500px;
+    margin-left: 270px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 50px;
+}
+
+.error{
+
+    height: 40px;
+    
+
+}
+
+.away{
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: poppins;
+    margin-top: 10px;
+    width: 250px;
+    font-weight: 100;
+
+}
+
+.logos{
+
+    margin-top: 15px;
+
+}
+
+.facebook{
+
+    height: 30px;
+
+}
+
+.instagram{
+
+    height: 30px;
+    margin-left: 10px;
+
+}
+
+.twitter{
+
+    height: 30px;
+    margin-left: 10px;
+
+}
+
+.tables{
+
+   
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+}
+
+.articles{
+
+    color: #ffffff;
+    list-style: none;
+    font-family: poppins;
+
+}
+
+.art{
+
+    font-size: 20px;
+
+}
+
+.crow{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.donate{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.cariar{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.event{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.news{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.leagues{
+
+    color: #ffffff;
+    list-style: none;
+    font-family: poppins;
+    margin-left: 100px;
+
+}
+
+.lea{
+
+    font-size: 20px;
+
+}
+
+.our{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.driven{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.customer{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.expert{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.team{
+
+    color: #ffffff;
+    list-style: none;
+    margin-left: 100px;
+    font-family: poppins;
+
+}
+
+.tea{
+
+    font-size: 20px;
+
+}
+
+.about{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.faq{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.privacy{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.help{
+
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+
+.touch{
+
+    color: #ffffff;
+    list-style: none;
+    margin-left: 100px;
+    font-family: poppins;
+
+}
+
+.getin{
+
+    font-size: 20px;
+
+}
+
+.num{
+
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.blue{
+
+    background-color: #0a0a24;
+    height: 50px;
+    border-top: 1px solid  #2e2e5b;
 
 }
 
