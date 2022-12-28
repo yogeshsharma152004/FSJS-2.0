@@ -178,8 +178,8 @@ nav p{
 
     background-color: #ffffff;
     margin-top: 140px;
-    padding: 50px;
-  
+    
+    
 
 }
 
@@ -188,7 +188,7 @@ nav p{
     display: flex;
     flex-direction: row;
     margin-top: 80px;
-    margin-left: 215px;
+    margin-left: 270px;
 
 }
 
@@ -200,7 +200,8 @@ nav p{
     font-weight: bolder;
     font-family: poppins;
     width: 480px;
-    margin-left: 530px;
+    padding-top: 50px;
+    margin-left: 590px;
     
 
 }
@@ -437,7 +438,7 @@ object-position: 78% 51%;
 
 display: flex;
 flex-direction: row;
-margin-left: 215px;
+margin-left: 270px;
 margin-top: 100px;
 
 }       
@@ -497,7 +498,8 @@ margin-top: 100px;
 .week{
 
     margin-top: 200px;
-    margin-left: 215px;
+    margin-left: 270px;
+    padding-bottom: 100px;
 }
 
 .you{
@@ -510,6 +512,10 @@ margin-top: 100px;
 }
 
 .inline{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
 
 }
 
@@ -569,5 +575,321 @@ margin-top: 100px;
     margin-top: 25px;
 
 }
+
+.snake{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    
+
+}
+
+.rectangle76{
+
+    
+    height: 250px;
+    width: 200px;
+    object-fit: cover;
+
+}
+.adv{
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.cave{
+
+    font-family: poppins;
+    width: 230px;
+
+}
+.act{
+
+    color: #f14f14;
+    font-family: poppins;
+    margin-top: 10px;
+    font-weight: 700;
+
+}
+.dang{
+
+    color: #7b7676;
+    width: 350px;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: poppins;
+    
+}
+
+.download05{
+
+    background-color: #e26132;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 15px 30px;
+    border: 0px;
+    margin-top: 25px;
+
+}
+    
+
+.inline02{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+
+}
+
+.hero{
+
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.rectangle77{
+
+    
+    height: 250px;
+    width: 200px;
+    object-fit: cover;
+
+}
+.startegy{
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.spider{
+
+    font-family: poppins;
+    width: 220px;
+
+}
+.stra{
+
+    color: #f14f14;
+    font-family: poppins;
+    margin-top: 10px;
+    font-weight: 700;
+
+}
+.ear{
+
+    color: #7b7676;
+    width: 320px;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: poppins;
+    
+}
+
+.download06{
+
+    background-color: #e26132;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 15px 30px;
+    border: 0px;
+    margin-top: 25px;
+
+}
+
+.million{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+}
+
+.rectangle78{
+
+    
+    height: 250px;
+    width: 200px;
+    object-fit: cover;
+
+}
+.masked{
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.powers{
+
+    font-family: poppins;
+    width: 230px;
+
+}
+.adve{
+
+    color: #f14f14;
+    font-family: poppins;
+    margin-top: 10px;
+    font-weight: 700;
+
+}
+.omon{
+
+    color: #7b7676;
+    width: 320px;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: poppins;
+    
+}
+
+.download07{
+
+    background-color: #e26132;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 15px 30px;
+    border: 0px;
+    margin-top: 25px;
+
+}
+
+.container02{
+
+    background-color: black;
+
+}
+
+.year{
+
+    color: #ffffff;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 670px;
+    padding-top: 50px;
+    text-align: center;
+    width: 350px;
+
+}
+
+.gameofworld{
+
+    height: 75px;
+    margin-left: 560px;
+    margin-top: 40px;
+    
+
+}
+
+.data{
+
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 13px;
+    font-family: poppins; 
+    width: 530px;
+    margin-left: 620px;
+    margin-top: 100px;
+    
+}
+
+.cardimg{
+
+    
+    margin-top: -220px;
+    margin-left: 280px;
+    
+
+
+}
+
+.rectangle17{
+
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 220px;
+    
+
+}
+
+.rectangle18{
+
+    height: 300px;
+    width: 250px;
+    object-fit: cover;
+    margin-left: 50px;
+    margin-bottom: 63px;
     
     
+}
+
+.rectangle90{
+
+    width: 280px;
+    height: 200px;
+    margin-left: 50px;
+    padding-bottom: 80px;
+
+}
+
+.rectangle606{
+    
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    opacity: initial;
+    filter: brightness(0.4);
+}
+
+.exep{
+
+margin-left: 640px;
+position: absolute;
+margin-top: 80px;
+
+
+
+
+}
+
+.expi{
+
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 380px;
+    text-align: center;
+
+}
+
+.attract{
+
+    color: #ffffff;
+    font-weight: 100;
+    text-align: center;
+    font-size: 13px;
+    font-family: poppins;
+    width: 340px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.download08{
+
+    color: #ffffff;
+    background-color: #e26132;
+    padding: 15px 30px;
+    font-family: poppins;
+    font-size: 15px;
+    border: 0px;
+    margin-left: 115px;
+    margin-top: 20px;
+
+}
+
