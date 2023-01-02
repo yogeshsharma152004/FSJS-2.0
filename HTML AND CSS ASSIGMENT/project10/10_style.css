@@ -5,12 +5,18 @@
 
 }
 
-body{
+/*body{
 
     background-image: url("./image/Photos/mainBackground.png");
     background-repeat: no-repeat;
     background-size: 100% 900px;
-    
+
+}*/
+
+.backimg{
+
+    width: 100%;
+
 }
 
 nav {
