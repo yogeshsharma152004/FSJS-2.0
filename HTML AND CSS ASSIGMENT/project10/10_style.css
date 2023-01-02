@@ -1,0 +1,43 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    background-image: url("./image/Photos/mainBackground.png");
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+    
+}
+
+nav {
+
+    display: flex;
+    flex-direction: row;
+   
+}
+
+nav img{
+
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+nav ul{
+
+    display: flex;
+    flex-direction: row;
+    color: #ffffff;
+    font-family: poppins;
+
+}
+nav ul li{
+
+    list-style: none;
+
+
+}
+
