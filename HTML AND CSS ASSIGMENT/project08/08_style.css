@@ -48,6 +48,7 @@ background-color: dodgerblue;
 color: white;
 padding: 8px 25px;
 border-radius: 25px;
+border: 2px solid dodgerblue;
 margin-top: 20px;
 margin-left: 200px;
 font-weight: bold;
@@ -107,6 +108,7 @@ color: white;
 font-family: poppins;
 font-weight: bold;
 padding: 10px 25px;
+border: 1px solid dodgerblue;
 border-radius: 25px;
 
 }
@@ -117,7 +119,7 @@ background-color: black;
 color: white;
 font-family: poppins;
 border: 1px solid white;
-padding: 8px 25px;
+padding: 10px 25px;
 border-radius:25px ;
 font-weight: bold;
 margin-left: 10px;

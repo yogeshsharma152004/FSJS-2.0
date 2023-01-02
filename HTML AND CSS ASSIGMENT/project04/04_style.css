@@ -5,7 +5,11 @@
     box-sizing: border-box;
     background-color:#F9F5ed;
    
-    
+}
+
+body{
+
+    overflow: hidden;
 
 }
 nav{

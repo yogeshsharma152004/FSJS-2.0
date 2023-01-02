@@ -1,3 +1,9 @@
+
+body{
+
+    overflow: hidden;
+
+}
 .navbar-container{
 
     display: flex;
