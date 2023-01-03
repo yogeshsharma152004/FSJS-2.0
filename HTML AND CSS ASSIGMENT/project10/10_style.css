@@ -52,7 +52,7 @@ nav ul li{
 
 hr{
 
-    border: 0.1px solid rgb(183, 177, 177);
+    border: 0.1px solid #b7b1b1;
     margin-top: 30px;
     margin-left: 120px;
     margin-right: 120px;
@@ -90,7 +90,7 @@ hr{
 .learn{
 
     border: 0px;
-    background-color: rgb(63, 117, 218);
+    background-color: #3f75da;
     color: #ffffff;
     font-family: poppins;
     padding:10px 30px;
@@ -150,7 +150,7 @@ hr{
 
 .container{
 
-    background-color: rgb(233, 238, 242);
+    background-color: #e1edf6;
     padding-top: 100px;
 }
 
@@ -164,4 +164,580 @@ hr{
   margin-left: 700px;
   
 }
+
+.homes{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 350px;
+    padding-bottom: 50px;
+}
+
+.home01{
+
+    margin-left: 50px;
+}
+
+.villa01{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.one{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.mix{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar01{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail01{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.home02{
+
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.villa02{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.two{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.mir{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar02{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail02{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.home03{
+
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.villa03{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.three{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.war{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar03{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail03{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+
+
+
+
+
+.homes01{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 350px;
+    padding-bottom: 50px;
+}
+
+.home04{
+
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.villa04{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.four{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.mix01{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar04{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail04{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.home05{
+
+    margin-left: 20px;
+    
+}
+
+.villa05{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 30px;
+    
+}
+
+.five{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.mir01{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar05{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail05{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.home06{
+
+    margin-left: 20px;
+    
+    
+}
+
+.villa06{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.six{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.war01{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar06{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail06{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+.homes02{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 350px;
+    padding-bottom: 50px;
+}
+
+.home07{
+
+    margin-left: 50px;
+}
+
+.villa07{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.seven{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.mix02{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar07{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail07{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.home08{
+
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.villa08{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.eight{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.mir02{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar08{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail08{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.home09{
+
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.villa09{
+
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    
+}
+
+.nine{
+
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: -50px;
+    position: relative;
+
+}
+
+.war02{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+
+}
+
+.dollar09{
+ 
+    color: #3f75da;
+    font-weight: bold;
+    font-family: poppins;
+    font-size: 14px;
+
+}
+
+.detail09{
+
+    background-color:#3f75da ;
+    border: 0px;
+    color: #ffffff;
+    font-family: poppins;
+    padding: 7px 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+
+
+
+
 
