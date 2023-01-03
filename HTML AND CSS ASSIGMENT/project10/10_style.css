@@ -736,6 +736,67 @@ hr{
 
 }
 
+.hometen{
+
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.featurebg{
+
+    height: 450px;
+   
+}
+
+.featureimg{
+
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 30px;
+    margin-left: -447px;
+    margin-bottom: 110px;
+   
+}
+
+.trend{
+
+    margin-top: 80px;
+    margin-left: 250px;
+
+}
+
+.modern{
+
+    font-size: 50px;
+    font-family: poppins;
+    width: 400px;
+
+}
+
+.lorem{
+
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+    width: 385px;
+    
+}
+
+.bird{
+
+    background-color: #3f75da;
+    font-family: poppins;
+    color: #ffffff;
+    border: 0px;
+    padding: 8px 25px;
+    border-radius: 25px;
+    margin-top: 40px;
+
+}
+
 
 
 
