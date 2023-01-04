@@ -40,6 +40,11 @@
 [Link of project09](./HTML%20AND%20CSS%20ASSIGMENT/project09/)
 
 
+### **_project10_**
+
+[Link of project10](./HTML%20AND%20CSS%20ASSIGMENT/project10/)
+
+
 ## TAILWIND CSS ASSIGMENT
 
 ### **_PROJECT01_**
