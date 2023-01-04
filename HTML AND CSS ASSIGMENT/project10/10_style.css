@@ -763,7 +763,7 @@ hr{
 .trend{
 
     margin-top: 80px;
-    margin-left: 250px;
+    margin-left: 350px;
 
 }
 
@@ -796,6 +796,362 @@ hr{
     margin-top: 40px;
 
 }
+
+
+
+.homeele{
+
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.unique{
+
+    margin-top: 80px;
+    margin-left: 350px;
+
+}
+
+.long{
+
+    font-size: 50px;
+    font-family: poppins;
+    width: 400px;
+
+}
+
+.lorem01{
+
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+    width: 385px;
+    
+}
+
+.bird01{
+
+    background-color: #3f75da;
+    font-family: poppins;
+    color: #ffffff;
+    border: 0px;
+    padding: 8px 25px;
+    border-radius: 25px;
+    margin-top: 40px;
+
+}
+.eleven{
+
+    margin-left: 358px;
+
+}
+.featurebg01{
+
+    height: 450px;
+   
+}
+
+.featureimg01{
+
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 30px;
+    margin-left: -503.5px;
+    margin-bottom: 110px;
+   
+}
+
+.news{
+
+    background-color: #3f75da;
+    width: 800px;
+    margin-left: 390px;
+    padding: 40px 50px;
+    border-radius: 40px;
+    margin-top: 100px;
+
+}
+
+.newsletter{
+
+    
+    margin-left: 80px;
+    
+
+}
+.article{
+
+    color: #ffffff;
+    font-size: 45px;
+    font-family: poppins;
+    width: 650px;
+    text-align: center;
+   
+
+}
+.esate{
+
+    font-size: 13px;
+    font-family: poppins;
+    color: #ffffff;
+    font-weight: 100;
+    margin-top: 15px;
+    width: 500px;
+    text-align: center;
+    margin-left: 70px;
+    
+    
+}
+
+.mail{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 150px;
+    
+
+}
+
+.addre{
+
+    background-color: #3432323f;
+    padding: 10px 150px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 25px;
+   
+    
+}
+
+.mailimg{
+
+    height: 20px;
+    margin-left: 20px;
+
+}
+.email{
+
+    background-color: transparent;
+    border: 0px;
+    color: #dfd8d8;
+    font-size: 13px;
+    margin-left: 30px;
+
+}
+
+.sub{
+
+    background-color: #ffffff;
+    border: 0px;
+    font-family: poppins;
+    color: #3f75da;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+
+.last{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 390px;
+    margin-top: 150px;
+    padding-bottom: 80px;
+
+}
+
+.logoim{
+
+    height: 40px;
+    
+}
+
+.social{
+
+    margin-top: 15px;
+
+}
+.facebook{
+
+    height: 35px;
+
+}
+
+.twitter{
+
+    height: 35px;
+    margin-left: 10px;
+}
+
+.insta{
+
+    height: 35px;
+    margin-left: 10px;
+}
+
+.award{
+
+
+font-family: poppins;
+font-size: 15px;
+width: 250px;
+margin-top: 15px;
+
+}
+
+.tables{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+
+}
+
+.location{
+
+    color: #000000;
+    list-style: none;
+    font-family: poppins;
+    
+    
+
+}
+
+.loc{
+
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.america{
+
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.asia{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.europe{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.africa{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.contact{
+
+    color: #000000;
+    list-style: none;
+    font-family: poppins;
+    margin-left: 100px;
+
+}
+
+.con{
+
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.our{
+
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.team{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.profile{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.faq{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+
+
+.legal{
+
+    color: #000000;
+    list-style: none;
+    font-family: poppins;
+    margin-left: 100px;
+
+}
+
+.leg{
+
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.pri{
+
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.dis{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.terms{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.com{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
 
 
 
