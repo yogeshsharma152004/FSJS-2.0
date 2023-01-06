@@ -179,7 +179,7 @@ margin-left: 15px;
 
 .specs{
 
-    margin-top: 100px;
+    margin-top: 150px;
     margin-left: 550px;
 }
 
@@ -325,6 +325,69 @@ margin-left: 15px;
     margin-top: 80px;
     margin-left: 50px;
     
-    
+}
 
+.case{
+
+    margin-top: 100px;
+    margin-left: 550px;
+    margin-top: 150px;
+}
+
+.caselogo{
+
+    height: 60px;
+    margin-left: 200px;
+}
+
+.cover{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+
+}
+
+.caseimg{
+
+    height: 350px;
+
+}
+
+.forever{
+
+    margin-left: 70px;
+    margin-top: 80px;
+    font-weight: 100;
+
+}
+
+.comfort{
+
+    color: #ffffff;
+    font-family: poppins;
+    width: 220px;
+    font-size: 14px;
+
+}
+
+.info{
+
+  background-color:  #2b2a2ae2;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #ffffff;
+  margin-top: 40px;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.group{
+
+    height: 18px;
+    margin-right: 8px;
+    
 }
