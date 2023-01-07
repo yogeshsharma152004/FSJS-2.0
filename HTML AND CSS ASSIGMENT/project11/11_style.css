@@ -345,6 +345,7 @@ margin-left: 15px;
     display: flex;
     flex-direction: row;
     margin-top: 50px;
+   
 
 }
 
@@ -459,12 +460,14 @@ margin-right: 10px;
 .choose{
 
     margin-top: 100px;
+    margin-left: 550px;
 
 }
 
 .productlogo{
 
-    height: 100px;
+    height: 120px;
+    margin-left: 200px;
 
 }
 .head{
@@ -472,7 +475,8 @@ margin-right: 10px;
 
     display: flex;
     flex-direction: row;
-    margin-top: 80px;
+    margin-top: 100px;
+    margin-left: 50px;
 
 }
 
@@ -622,4 +626,113 @@ margin-right: 10px;
     
 }
 
+.head01{
 
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 50px;
+
+}
+
+.bluehead{
+
+    background-color:#131313e2 ;
+    padding: 0px 15px 15px 20px;
+    border-radius: 10px;
+    
+   
+}
+
+.bluepng{
+
+    height: 100px;
+    margin-top: -40px;
+    margin-left: 20px;
+
+}
+
+.blu{
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: poppins;
+    font-weight: 600;
+    margin-top: 5px;
+
+}
+
+.n223{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+
+}
+
+
+.shoppingbag06{
+
+    background-color: black;
+    padding: 7px 7px;
+    height: 15px;
+    margin-left: 55px;
+    
+}
+
+
+
+
+.gray{
+
+    background-color:#131313e2 ;
+    margin-left: 50px;
+    padding: 0px 15px 15px 20px;
+    border-radius: 10px;
+    
+}
+
+.twilight{
+
+    height: 100px;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+
+.light{
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: poppins;
+    font-weight: 600;
+
+}
+
+.n224{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+
+}
+
+
+.shoppingbag07{
+
+    background-color: black;
+    padding: 7px 7px;
+    height: 15px;
+    margin-left: 55px;
+    margin-top: 5px;
+
+    
+    
+}
