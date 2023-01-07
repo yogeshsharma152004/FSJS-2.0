@@ -455,3 +455,171 @@ margin-right: 10px;
     margin-top: 20px;
 
 }
+
+.choose{
+
+    margin-top: 100px;
+
+}
+
+.productlogo{
+
+    height: 100px;
+
+}
+.head{
+
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+
+}
+
+.blackhead{
+
+    background-color:#131313e2 ;
+    padding: 0px 15px 15px 20px;
+    border-radius: 10px;
+   
+}
+
+.blackpng{
+
+    height: 100px;
+    margin-top: -40px;
+    margin-left: 20px;
+
+}
+
+.black{
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: poppins;
+    font-weight: 600;
+    margin-top: 5px;
+
+}
+
+.n22{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+
+}
+
+
+.shoppingbag03{
+
+    background-color: black;
+    padding: 7px 7px;
+    height: 15px;
+    margin-left: 55px;
+    
+}
+
+
+.blackredhead{
+
+    background-color:#131313e2 ;
+    margin-left: 50px;
+    padding: 0px 15px 15px 20px;
+    border-radius: 10px;
+    
+}
+
+.redblack{
+
+    height: 100px;
+    margin-top: -40px;
+    margin-left: 20px;
+
+}
+
+.red{
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: poppins;
+    font-weight: 600;
+
+}
+
+.n221{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+
+}
+
+
+.shoppingbag04{
+
+    background-color: black;
+    padding: 7px 7px;
+    height: 15px;
+    margin-left: 55px;
+    
+}
+
+
+
+.nightblack{
+
+    background-color:#131313e2 ;
+    margin-left: 50px;
+    padding: 0px 15px 15px 20px;
+    border-radius: 10px;
+    
+}
+
+.nightpng{
+
+    height: 100px;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+
+.night{
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: poppins;
+    font-weight: 600;
+
+}
+
+.n222{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: poppins;
+
+}
+
+
+.shoppingbag05{
+
+    background-color: black;
+    padding: 7px 7px;
+    height: 15px;
+    margin-left: 55px;
+    
+}
+
+
