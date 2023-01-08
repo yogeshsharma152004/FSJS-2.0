@@ -737,7 +737,194 @@ margin-right: 10px;
     
 }
 
-.location{
+.twitter{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    margin-left: 250px;
+    padding-bottom: 100px;
+
+}
+
+.twitterlogo{
+
+    height: 25px;
+    margin-top: 50px;
+
+}
+
+.beatslogo{
+
+    height: 30px;
+  margin-left: 100px;
+}
+
+.table{
 
     color: #ffffff;
+    display: flex;
+    flex-direction: row;
+   
+
 }
+
+.Products{
+
+    list-style: none;
+    margin-left: 200px;
+    font-family: poppins;
+}
+
+
+.pro{
+
+    color: #ffffff; 
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.headphones{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+}
+.earphones{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+
+}
+.earbuds{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+}
+.access{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+}
+
+
+.support{
+
+    list-style: none;
+    margin-left: 100px;
+    font-family: poppins;
+}
+
+
+.sup{
+
+    color: #ffffff; 
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.help{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+}
+.register{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+
+}
+.update{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+}
+.provide{
+
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #c1b6b6;
+}
+
+.right{
+
+    margin-left: 150px;
+
+}
+
+.email{
+
+    background-color:#131313e2 ;
+    color: #c1b6b6;
+    font-family: poppins;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 10px;
+    font-size: 13px;
+    font-weight: 100;
+    border-radius: 10px;
+
+
+}
+
+.rig{
+
+    background-color: black;
+    margin-left: 150px;
+    padding: 8px 8px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.rightarrow{
+
+    height: 13px;
+    margin-left:;
+    margin-right: 5px;
+    
+}
+
+.logos01{
+
+    margin-top: 30px;
+
+}
+
+.twitte{
+
+    margin-left: 15px;
+}
+
+.instagram{
+
+    margin-left: 15px;
+}
+
+.linkedin{
+
+    margin-left: 15px;
+}
+
+.uparrow{
+
+    height: 30px;
+    margin-left: 400px;
+    margin-top: -40px;
+
+}
+
+
+
