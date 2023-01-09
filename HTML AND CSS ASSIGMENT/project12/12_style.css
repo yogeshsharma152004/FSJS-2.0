@@ -158,7 +158,6 @@ width: 500px;
 .second{
 
     margin-top: 100px;
-    /*margin-left: 300px;*/
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -182,7 +181,7 @@ width: 500px;
 
 .awesome{
 
-    height: 13px;
+    height: 15px;
     margin-right: 10px;
     font-weight: 100;
 
@@ -303,13 +302,122 @@ width: 500px;
     margin-top: 100px;
     display: flex;
     flex-direction: row;
-    margin-left: 300px;
+    justify-content: center;
 
 }
 
 .group{
 
-    
+margin-left: 200px;
+margin-top: 100px;
+
+}
+
+.product{
+
+    background-color: #dfbdff45;
+    color: blueviolet;
+    font-family: poppins;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 20px;
+    width: 175px;
+    border-radius: 40px;
+    margin-top: 50px;
+
+}
+
+.group11{
+
+    height: 15px;
+    margin-right: 10px;
+
+
+}
+
+.launch{
+
+    font-size: 25px;
+    font-family: poppins;
+    font-weight: bolder;
+    margin-top: 20px;
+
+}
+
+.load{
+
+    color: #7b7777;
+    font-family: poppins;
+    margin-top: 20px;
+    font-size: 13px;
+    width: 395px;
+    font-weight: 200;
+
+}
+
+.four{
+
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+   margin-left: 300px;
+
+}
+
+.group01{
+
+
+margin-top: 50px;
+
+
+}
+
+.teams{
+
+    background-color: #dfbdff45;
+    color: blueviolet;
+    font-family: poppins;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 20px;
+    width: 210px;
+    border-radius: 40px;
+    margin-top: 50px;
+
+}
+
+.group28{
+
+    height: 15px;
+    margin-right: 10px;
+
+}
+
+.minute{
+
+    font-size: 25px;
+    font-family: poppins;
+    font-weight: bolder;
+    margin-top: 20px;
+
+}
+
+.free{
+
+    color: #7b7777;
+    font-family: poppins;
+    margin-top: 20px;
+    font-size: 13px;
+    width: 405px;
+    font-weight: 200;
+
+}
+
+.img6{
+
+    margin-left: 100px;
 
 }
 
