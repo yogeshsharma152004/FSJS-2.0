@@ -530,12 +530,8 @@ margin-top: 50px;
     margin-top: 200px;
     display: flex;
     flex-direction: row;
+    justify-content: center;
     
-}
-
-.by{
-
-
 }
 
 .qubly{
@@ -613,22 +609,29 @@ margin-top: 50px;
 .back{
 
     background-color: #f9f0ff;
-    margin-left: 80px;
+    margin-left: 100px;
+    border-radius: 5px;
+
+    
 
 }
 
 .front{
 
     background-color: #ffffff;
-    margin: 50px;
+    margin: 0px 25px -25px 25px ;
+    position: relative;
+    bottom: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 30px;
+    border-radius: 5px;
 }
 
 .sign{
 
+    
     font-size: 20px;
     font-family: poppins;
     font-weight: bolder;
@@ -687,3 +690,329 @@ margin-top: 50px;
     border-radius: 5px;
     
 }
+
+.or{
+
+    margin-top: 10px;
+    font-family: poppins;
+    font-weight: bolder;
+
+}
+
+.google{
+
+    margin-top: 15px;
+    
+}
+
+.hr01{
+
+    width: 300px;
+    margin-top: 15px;
+    
+    border: 0.5px solid #a7a2a2;
+
+}
+
+.account{
+
+
+    margin-top: 15px;
+    font-family: poppins;
+
+
+}
+
+.login{
+
+    color: blueviolet;
+
+}
+
+.last{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    justify-content: center;
+    background-color: #fbfcff;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    
+
+}
+
+
+
+.logo10{
+
+    height: 40px;
+
+}
+
+.ipsum{
+
+    font-family: poppins;
+    margin-top: 15px;
+    width: 290px;
+
+}
+
+.social{
+
+    margin-top: 25px;
+
+}
+
+.facebook{
+
+    height: 30px;
+
+}
+
+.twitter{
+
+    height: 30px ;
+    margin-left: 20px;
+}
+
+.instagram{
+
+    height: 30px ;
+    margin-left: 20px;
+
+}
+
+.tables{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+
+}
+
+.produ{
+
+list-style: none;
+font-family: poppins;
+
+}
+
+.pro{
+
+    
+    font-weight: bold;
+
+}
+
+.connection{
+
+    margin-top:10px;
+
+}
+
+.protocol{
+
+    margin-top: 5px;
+
+}
+
+.person{
+
+    margin-top: 5px;
+
+}
+
+.integration{
+
+    margin-top: 5px;
+
+}
+
+.catelog{
+
+    margin-top: 5px;
+
+}
+
+.pricing{
+
+    margin-top: 5px;
+
+}
+
+.security{
+
+    margin-top: 5px;
+
+}
+
+.gdpr{
+
+    margin-top: 5px;
+
+}
+
+.devloper{
+
+    list-style: none;
+    font-family: poppins;
+    margin-left: 50px;
+    
+}
+    
+.for{
+    
+        
+    font-weight: bold;
+    
+}
+    
+.docs{
+    
+    margin-top:10px;
+    
+}
+    
+.api{
+    
+    margin-top: 5px;
+    
+}
+    
+.opensource{
+    
+    margin-top: 5px;
+    
+}
+    
+.engineering{
+    
+    margin-top: 5px;
+    
+}
+
+.company{
+
+    list-style: none;
+    font-family: poppins;
+    margin-left: 50px;
+    
+}
+    
+.com{
+    
+        
+    font-weight: bold;
+    
+}
+
+.careers{
+
+    margin-top: 5px;
+
+}
+    
+.blog{
+    
+    margin-top: 5px;
+    
+}
+    
+.press{
+    
+    margin-top: 5px;
+    
+}
+
+.support{
+
+    list-style: none;
+    font-family: poppins;
+    margin-left: 50px;
+    
+}
+    
+.suppo{
+    
+        
+    font-weight: bold;
+    
+}
+    
+.helpcenter{
+    
+    margin-top:5px;
+    
+}
+    
+.contactus{
+    
+    margin-top: 5px;
+    
+}
+    
+.security{
+    
+    margin-top: 5px;
+    
+}
+    
+.bulletions{
+    
+    margin-top: 5px;
+    
+}
+    
+.documentation{
+    
+    margin-top: 5px;
+    
+}
+    
+.partner{
+    
+    margin-top: 5px;
+    
+}
+    
+.portal{
+    
+    margin-top: 5px;
+    
+}
+
+.newsletter{
+
+    font-family: poppins;
+    margin-left: 50px;
+        
+}
+
+.email{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: poppins;
+    background-color: #f1f1f1;
+    color:#666363 ;
+    border: 0px;
+    padding: 8px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    
+
+}
+
+.ios{
+
+    height: 15px;
+    margin-left: 100px;
+
+}
+    
+    
+    
+
+    
