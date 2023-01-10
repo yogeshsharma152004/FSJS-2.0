@@ -533,6 +533,11 @@ margin-top: 50px;
     
 }
 
+.by{
+
+
+}
+
 .qubly{
 
     font-size: 25px;
@@ -569,4 +574,116 @@ margin-top: 50px;
 
     margin-top: 50px;
 
+}
+
+.logo06{
+
+    height: 40px;
+    
+}
+
+.logo07{
+
+    height: 40px;
+    margin-left: 80px;
+
+}
+
+
+
+.logos03{
+
+    margin-top: 50px;
+
+}
+
+.logo08{
+
+    height: 40px;
+    
+}
+
+.logo09{
+
+    height: 40px;
+    margin-left: 80px;
+
+}
+
+.back{
+
+    background-color: #f9f0ff;
+    margin-left: 80px;
+
+}
+
+.front{
+
+    background-color: #ffffff;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.sign{
+
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: bolder;
+
+}
+
+.start{
+
+    background-color: blueviolet;
+    color: #ffffff;
+    font-family: poppins;
+    border: 0px;
+    padding: 8px 99.5px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 100;
+    border-radius: 5px;
+
+}
+
+.primary{
+
+    background-color: #ffffff;
+    font-size: 15px;
+    border: 1px solid #d4cece;
+    color:#666363;
+    font-weight: 100;
+    padding: 8px 201px 8px 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+
+}
+
+.password{
+
+    background-color: #ffffff;
+    font-size: 15px;
+    border: 1px solid #d4cece;
+    color:#666363;
+    font-weight: 100;
+    padding: 8px 259.5px 8px 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+
+}
+
+.retype{
+
+    background-color: #ffffff;
+    font-size: 15px;
+    border: 1px solid #d4cece;
+    color:#666363;
+    font-weight: 100;
+    padding: 8px 203px 8px 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+    
 }
